@@ -1,10 +1,5 @@
 # 🛰️ Tactical Command Hub  
 
-![License](https://img.shields.io/github/license/yourusername/tactical-command-hub?style=flat-square)
-![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/tactical-command-hub/ci.yml?style=flat-square)
-![Issues](https://img.shields.io/github/issues/yourusername/tactical-command-hub?style=flat-square)
-![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/tactical-command-hub?style=flat-square)
-![Stars](https://img.shields.io/github/stars/yourusername/tactical-command-hub?style=social)
 
 > ⚡ **Tactical Command Hub** is a next-gen web platform designed to manage missions, agents, and intelligence operations — all in one place.  
 > 🖥️ Built with **React + TypeScript**, fully responsive, and packed with real-time insights.
@@ -140,5 +135,4 @@ If you like this project, give it a ⭐ on [GitHub](https://github.com/AlainKwsh
 
 ---
 
-Would you like me to also **generate a sample animated demo GIF** (sidebar collapsing, cards hovering, etc.) so your README looks really polished right away?
-```
+
