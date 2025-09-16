@@ -4,14 +4,7 @@
 > ⚡ **Tactical Command Hub** is a next-gen web platform designed to manage missions, agents, and intelligence operations — all in one place.  
 > 🖥️ Built with **React + TypeScript**, fully responsive, and packed with real-time insights.
 
----
 
-## 🚀 Demo  
-
-![Tactical Dashboard Demo](https://your-demo-gif-or-video-link.gif)  
-*(Above: Example of navigation, animations, and live updates)*  
-
----
 
 ## 🧠 Overview  
 
